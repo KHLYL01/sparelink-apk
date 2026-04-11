@@ -13,7 +13,7 @@
 يمكنك تحميل أحدث نسخة من التطبيق مباشرة عبر الرابط أدناه:
 
 > [!IMPORTANT]
-> **[تحميل SpareLink APK v1.2.0](رابط_ملف_الـ_APK_هنا)**
+> **[تحميل SpareLink APK v1.2.0](https://github.com/KHLYL01/sparelink-apk/releases/latest/download/sparelink.apk)**
 
 ---
 
